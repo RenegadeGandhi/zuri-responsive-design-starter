@@ -417,6 +417,16 @@ div.footer h6 {
 
 }
 
+@media (max-width: 700px) {
+
+    div.snapshot-box-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+}
+
 @media (max-width: 575.98px) {
 
     div.nav-bar {
