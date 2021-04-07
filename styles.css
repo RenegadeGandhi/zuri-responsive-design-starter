@@ -523,9 +523,8 @@ div.footer h6 {
     #menu {
         position: absolute;
         width: 300px;
-        margin: -28% 0 0 -25%;
-        padding: 50px;
-        padding-top: 125px;
+        margin: 0;
+        padding: 2% 0 0 87%;
         background: none;
         list-style-type: none;
         /* Hide the menu off-screen to the left */
@@ -537,7 +536,7 @@ div.footer h6 {
     
     #menu li {
         padding: 8px 0;
-        font-size: 22px;
+        font-size: 1.1rem;
         color: #88949B;
     }
 
